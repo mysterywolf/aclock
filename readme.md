@@ -1,4 +1,7 @@
-# aclock 终端钟表
+# aclock for RT-Thread 
+## 终端钟表
+
+原作者：https://github.com/tenox7/aclock/blob/master/sources/aclock-vt100.c
 
 在ENV工具的配置方法：
 
