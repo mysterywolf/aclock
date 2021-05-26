@@ -3,7 +3,7 @@
 
 原作者：https://github.com/tenox7/aclock/blob/master/sources/aclock-vt100.c
 
-在ENV工具的配置方法：
+## 如何获取软件包
 
 ```
  RT-Thread online packages  --->
