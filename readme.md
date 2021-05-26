@@ -8,7 +8,7 @@
 ```
  RT-Thread online packages  --->
     miscellaneous packages  --->
-        games: games run on RT-Thread console  --->
+        entertainment: terminal games and other interesting software packages  --->
             [*] aclock: a terminal clock
 ```
 
